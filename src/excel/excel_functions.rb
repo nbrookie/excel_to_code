@@ -168,3 +168,11 @@ require_relative 'excel_functions/fillgaps'
 require_relative 'excel_functions/project'
 
 require_relative 'excel_functions/interpolate'
+
+require_relative 'excel_functions/today'
+
+require_relative 'excel_functions/year'
+
+require_relative 'excel_functions/averageif'
+
+require_relative 'excel_functions/minifs'

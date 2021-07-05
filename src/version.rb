@@ -1,4 +1,4 @@
 class ExcelToCode
-  def self.version() "0.3.19" end
+  def self.version() "0.3.20" end
 end
 
